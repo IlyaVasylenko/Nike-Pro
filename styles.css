@@ -1,0 +1,183 @@
+body {
+  line-height: 1.6; 
+  margin: 0;
+}
+
+.product-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 12px;
+  height: 100%;
+}
+
+.product-card h3 {
+  font-size: 1.05rem;
+  margin: 8px 0;
+}
+
+.product-card .price {
+  margin: 6px 0 10px;
+  font-weight: 600;
+}
+
+.airforce {
+  transform: scale(1.4) translateY(-35px) translateX(35px);
+}
+
+.onas, .clanok1, .clanok2 {
+  background-color: #000;
+}
+
+.img-container {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.img-container img {
+  border-radius: 10px;
+}
+
+.bg-black{
+  background-color: #000
+}
+
+.big-title {
+  margin: 0; 
+  font-weight: 900;
+  text-align: left;
+  line-height: 0.8;
+  color: #000;
+  padding-top: 70px;
+  font-size: 15vw;
+}
+.big-title span {
+  display: block;
+  margin: 0; 
+}
+
+.history-1 {
+  padding: 50px 35px 0 35px;
+}
+
+.history-2 {
+  padding: 50px 35px 0 35px;
+}
+
+.history-3 {
+  margin-left: 25px;
+  margin-right: 0;
+  padding: 0 35px;
+}
+
+.history-image img {
+  width: 100%;        
+  height: 400px;      
+  object-fit: cover; 
+  object-position: center; 
+  border-radius: 10px;
+}
+
+.history-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.history-text h2 {
+  font-size: 4rem;
+  margin-bottom: 35px;
+}
+
+.history-text p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.history-item {
+  flex: 1;
+  text-align: center;
+  min-width: 250px;
+}
+
+.history-item img {
+  width: 100%;        
+  height: 300px;      
+  object-fit: cover; 
+  object-position: center;       
+  border-radius: 10px;   
+  margin-bottom: 50px;    
+}
+
+.history-item h1 {
+  font-size: 1rem;
+  margin-bottom: -15px;
+  text-align: left;
+}
+
+.history-item p {
+  font-size: 1rem;
+  line-height: 1.4;
+  text-align: left;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.model-1 {
+  margin-top: 50px;
+  padding: 0 35px;
+}
+
+.model-2 {
+  padding: 0 35px;
+}
+
+.model-3 {
+  padding: 0 35px;
+}
+
+.model-4 {
+  padding: 0 35px;
+}
+
+.model-5 {
+  padding: 0 35px;
+}
+
+.model-image img {
+  width: 100%;        
+  height: 400px;      
+  object-fit: cover; 
+  object-position: center; 
+  border-radius: 10px;
+}
+
+.model-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.model-text h2 {
+  font-size: 4rem;
+  margin-bottom: 35px;
+}
+
+.model-text p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.site-header {
+  background: #e9f7ef;
+  padding: 12px 0;
+  border-bottom: 1px solid #d7eedf;
+}
+.site-footer {
+  background: #000000;
+  padding: 16px 0;
+}
+
