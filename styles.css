@@ -10,6 +10,10 @@ body {
   padding: 12px;
   height: 100%;
 }
+.kkkk{
+  width: 350px;
+  height: auto;
+}
 
 .product-card h3 {
   font-size: 1.05rem;
@@ -22,7 +26,7 @@ body {
 }
 
 .airforce {
-  transform: scale(1.4) translateY(-35px) translateX(35px);
+  /* transform: scale(1.4) translateY(-35px) translateX(35px); */
 }
 
 .onas, .clanok1, .clanok2 {
